@@ -1,5 +1,8 @@
 package org.studyeasy;
 
+
+
+
 import java.io.File;
 import java.io.IOException;
 import java.util.List;
@@ -19,7 +22,7 @@ import org.studyeasy.hibernate.entity.Files;
 @WebServlet("/ImageUpload")
 public class ImageUpload extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-	public String path = "/Users/sayantansarkar/Images/";
+	public String path = "c:/images/";
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
