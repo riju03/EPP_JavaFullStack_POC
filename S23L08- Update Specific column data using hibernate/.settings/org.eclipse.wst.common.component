@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="S23L08- Update Specific column data using hibernate">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="S23L08-_Update_Specific_column_data_using_hibernate"/>
+        <property name="java-output-path" value="/S23L08- Update Specific column data using hibernate/build/classes"/>
+    </wb-module>
+</project-modules>
